@@ -18,7 +18,8 @@ api = 2
 ; distribution works with.
 core = 7.x
 ;projects[drupal][version] = 7.34
-projects[drupal][patch][] = https://www.drupal.org/files/drupal-remove_double_underscore_from_css_filter-2009584-16.patch
+;projects[drupal][patch][] = https://www.drupal.org/files/drupal-remove_double_underscore_from_css_filter-2009584-16.patch
+
 
 projects[crdistro][type] = profile
 projects[crdistro][download][type] = git
